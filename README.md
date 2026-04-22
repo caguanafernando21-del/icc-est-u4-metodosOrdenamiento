@@ -17,4 +17,11 @@ Cree la clase `MetodoBurbuja` que implementa metodo de ordenamiento ascendente, 
 Creamos la clase `MetodoBurbujaaAvanzado` para optimizar el metodo burbuja para evitar que hayan una cantidad exagerada de comparaciones al momento de ejecutar nuestro programa.
 
 
+## Practica 1.3 Metodo Seleccion
+### Fecha: 2026-04-22
+## Descripcion:
+Cree la clase `MetodoClaseSeleccion` para buscar el elemento más pequeño para colocarlo al principio de nuestro  array para despues este comparar con los restantes para al final tener el mas bajo en el principio y con mennos intercambios innecesarios.
+
+
+
 
